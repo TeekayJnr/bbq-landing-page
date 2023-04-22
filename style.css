@@ -198,6 +198,8 @@ input:focus {
 @media (max-width: 700px) {
   .container-details {
     width: 100%;
+    margin: 2em auto;
+    padding: 0 1em;
   }
 
   .details-title {
